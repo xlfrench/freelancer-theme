@@ -55,6 +55,9 @@ address:
   - line: 3481 Melrose Place
   - line: Beverly Hills, CA 90210
 
+# Add link to your Resume to download here
+resume-link: https://www.linkedin.com/in/kylekochanek/
+
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
