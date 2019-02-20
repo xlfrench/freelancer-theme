@@ -37,6 +37,8 @@ I [Kyle](https://github.com/kocheck) made some minor updates to this theme to ma
 
 **What was updated**
 - Gem Files 
+    - Updated Gem files to newest versions.
 - Form Submission
+    - Updated the Form submition to use Netlify's form collector. 
 
-See the theme used in [this tutorial](https://github.com/kocheck/talks/tree/master/2019.Web.Porfolio.Setup) I wrotes
+See the theme used in [this tutorial](https://github.com/kocheck/talks/tree/master/2019.Web.Porfolio.Setup) I wrote.
