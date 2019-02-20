@@ -40,5 +40,7 @@ I made a few minor updates to this theme to make it easier to use today with Net
     - Updated Gem files to newest versions.
 - Form Submission
     - Updated the Form submition to use Netlify's form collector. 
+- Updated YML file with a new varible `resume-link` to hold a link to download Resume. 
+    - Updated Download theme to `Download Resume` with new YML `resume-link` varible. 
 
 See the theme used in [this tutorial](https://github.com/kocheck/talks/tree/master/2019.Web.Porfolio.Setup) I wrote.
