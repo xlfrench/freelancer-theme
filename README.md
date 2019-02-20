@@ -30,3 +30,13 @@ View this jekyll theme in action [here](https://jeromelachaud.github.io/freelanc
 
 ---------
 For more details, read the [documentation](http://jekyllrb.com/)
+
+
+## My Edits
+I [Kyle](https://github.com/kocheck) made some minor updates to this theme to make it easier to use for my purposes. 
+
+**What was updated**
+- Gem Files 
+- Form Submission
+
+See the theme used in [this tutorial](https://github.com/kocheck/talks/tree/master/2019.Web.Porfolio.Setup) I wrotes
