@@ -5,7 +5,7 @@ Jekyll theme based on [Freelancer bootstrap theme ](http://startbootstrap.com/te
 
 ## How to use
  - Place a image in `/img/portfolio/`
- - Replace `your-email@domain.com` in `_config.yml` with your email address. Refer to [formspree](http://formspree.io/) for more information.
+ - ~~Replace `your-email@domain.com` in `_config.yml` with your email address. Refer to [formspree](http://formspree.io/) for more information.~~ ( See Edits made in `Updates Section`)
  - Create posts to display your projects. Use the follow as an example:
 ```txt
 ---
@@ -32,8 +32,8 @@ View this jekyll theme in action [here](https://jeromelachaud.github.io/freelanc
 For more details, read the [documentation](http://jekyllrb.com/)
 
 
-## My Edits
-I [Kyle](https://github.com/kocheck) made some minor updates to this theme to make it easier to use for my purposes. 
+## Updates
+I made a few minor updates to this theme to make it easier to use today with Netlify as the hosting/backend.
 
 **What was updated**
 - Gem Files 
