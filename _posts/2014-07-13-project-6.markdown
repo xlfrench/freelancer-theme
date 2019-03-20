@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Submarine
 modal-id: Submarine
 date: 2014-07-15
 img: submarine.png
