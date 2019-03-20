@@ -7,6 +7,7 @@ img: submarine.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
+client-link: https://www.google.com
 category: Web Development
 description: Hello world, this is my first project!
 
