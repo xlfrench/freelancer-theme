@@ -14,9 +14,7 @@ google_verify:
 bing_verify:
 
 # Contact form:
-# - static : pass through formspree.io to validate email sending
-# - disqus : replace contact form by disqus thread
-# - comment the line below if you want to stick with the default PHP contact form
+# The contact form has been updated to utilize Netlifies Contact form to collect submission. 
 contact: static
 
 # If you use disqus you need disqus shortname
